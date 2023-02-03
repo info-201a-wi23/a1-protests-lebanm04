@@ -22,9 +22,9 @@
 # (1.a) Load the `stringr` package, which you will use later. (1 point)
 library(stringr)
 
-# (1.b) Load the data from CountLove by using the following URL:$ ssh-keygen -t ed25519 -C "your_email@example.com"
-$ ssh-keygen -t ed25519 -C "lebanm04@uw.edu"
+# (1.b) Load the data from CountLove by using the following URL https://countlove.org/statistics.html
 # Save this dataframe into a variable called `protest_data` (1 point)
+save(countlovefiles)
 
 #  Whenever we load data, the first thing we want to do is manually examine it, see how it looks, and make sure we understand what each column (or feature) and each row (or record) in the dataset means.
 # Open the dataframe by clicking the spreadsheet icon in the Environment or by using View(). Manually examine the data by scrolling through it.
@@ -34,6 +34,7 @@ $ ssh-keygen -t ed25519 -C "lebanm04@uw.edu"
 
 # (1.d) Without using code, pick one row in the dataset (any row!), and then type in all the values from that row, with each value separated by a comma. (1 point)
 # For ex: 2018-01-01, University of Washington, Seattle, WA...
+
 
 # (1.e) How many protests are recorded in the dataset in total? Use an R function to determine this number and then save it in a variable called `num_protests`  (1 point)
 # Hint: This is the same number as the number of rows in the dataset

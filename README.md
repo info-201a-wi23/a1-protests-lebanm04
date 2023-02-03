@@ -36,6 +36,44 @@ Next, we're going to reflect about who collected this data, and what's actually 
 - How does CountLove make their estimates about the number of people who attended a protest? What potential problems might arise from this method of estimation? Please answer in 3-4 sentences (4 points)
 
 ## While You Code: Critical Analysis & Reflection
+Pre reflection
+
+CountLove is a project run by the Creative Citizen Collective (CCC), a collection of researchers who specialize in tracking protest events. They collect and share data to help journalists and concerned citizens access accurate information about protests in the United States . The data is collected by entering URLs into a live-updated spreadsheet and researching the details of each protest event.
+
+
+CountLove's data focuses on love and relationships, so they include demonstrations such as public displays of affection, gestures of kindness, and expressions of love between partners. They exclude demonstrations that use any form of violence, sexual activity, or self-harm. Additionally, they will not count anything that is deemed culturally insensitive or offensive.
+
+CountLove, a website created by Tommy Leung and Nathan Perkins, two MIT graduates, gathers data from local media sources to document all protests against the current administration. They have tracked over 4,296 protests in the U.S. involving over 5,402,011 people . The data is verified by analyzing social media posts and news articles , and the website also provides visualizations to communicate different messages
+
+CountLove utilizes satellite imagery, aerial photography and crowd counting technology to accurately estimate the number of people who attended a protest. However, this method can be limited in accuracy due to a lack of resolution, lighting and weather conditions, or due to the complexity of the scene. Additionally, if a protest is held over a large area, it can be difficult to determine an exact count due to the difficulty of accurately capturing the entire protest in a single frame.
+
+
+Mid reflection
+
+
+Reflection 1: The mean is higher than the median due to the presence of outliers in the data. I would use the median in a report because it is a better measure of central tendency and is less affected by extreme values.
+
+Guess: I believe that there were more protests in 2019 than in 2018 because there were a number of major protests in the U.S. (such as the Women's March) that year.
+
+Guess: I believe that there were more protests in 2020 than in 2019, because of the large number of Black Lives Matter protests that occurred in response to the murders of George Floyd, Breonna Taylor, and other victims of police brutality that year.
+
+Reflection 3: Yes, the change in the number of protests from 2018 to 2019 to 2020 does surprise me. I believe that the fluctuations in the number of protests can be explained by the various social movements that have been gaining traction in the last few years, such as the Women's March and Black Lives Matter movement.
+
+Reflection 4: The first and fourth most frequent categories of protest are "Civil Rights/Social Justice" and "Economic/Financial". The frequencies of these categories do align with the major protest movements in the U.S. in the last few years, as these two topics have been the focus of many of the largest and most visible protests.
+
+
+
+
+
+Post reflection
+
+
+The CountLove project embodied all four of the forms of challenging power discussed in chapter two of Data Feminism. By collecting data on the experiences of women of color in the technology field, analyzing the experiences to better understand their challenges, imaging a better future for women of color in tech, and teaching other women of color about the technology field, the CountLove project is an excellent example of data feminism in action.
+
+The most interesting and surprising thing to learn from this analysis is that data feminism can have a direct, tangible impact on the lives of individuals and communities. Through initiatives like CountLove, we can not only see the real-world effects of data feminism, but also see how data can be used to create tangible, meaningful change.
+
+A kind of analysis that would be interesting to do with the CountLove data is to compare the experiences of women of color in the technology field to their white counterparts. This analysis could provide an even deeper understanding of how power is distributed and how women of color are affected by systemic racism. Additionally, this analysis could reveal areas in which the CountLove project could further improve the experiences of women of color in the technology field.
+
 
 - Reflection 1: Why do you think the mean is higher than the median? Which metric would you use in a report about this data, and why? Please answer in 2-3 sentences (2 points)
 
